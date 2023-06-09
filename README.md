@@ -1,3 +1,8 @@
+
+    
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div># AIArtistryUnleashed
@@ -50,3 +55,4 @@ South African born and raised tech girl, gamer and curious AI enthusiast.
         <img src="https://media.discordapp.net/attachments/1108290576497000500/1115628232050483272/BeccaQ_digital_background__Pixar_Disney_concept_art_3d_digital__597bf333-defa-477d-9e84-24c4759a7a39.png" alt="Image 2" style="margin-right: 0;">
         <img src="https://media.discordapp.net/attachments/1108290576497000500/1115628232050483272/BeccaQ_digital_background__Pixar_Disney_concept_art_3d_digital__597bf333-defa-477d-9e84-24c4759a7a39.png" alt="Image 3" style="margin-right: 0;">
     </div>
+  
