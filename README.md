@@ -81,14 +81,10 @@ South African born and raised tech girl, gamer and curious AI enthusiast.
     <img src="https://media.discordapp.net/attachments/1108290576497000500/1109404642695200878/BeccaQ_a_girl_holding_a_glitter_rainbow_balloon_25ab46b8-28b9-4cc3-9d3a-64298d37d0f8.webp?width=843&height=843" alt="Image 1" style="margin-right: 0;">
         <img src="https://media.discordapp.net/attachments/1108290576497000500/1109403373276504164/BeccaQ_melissa_c8f7f64c-f3f2-4354-8e66-5971ce19796c.png?width=843&height=843" style="margin-right: 0;">
         <img src="https://media.discordapp.net/attachments/1108290576497000500/1108341008858624010/BeccaQ_tourist_attraction_south_africa_58b38d77-4f59-4590-8202-2edf5c8f4584.png?width=843&height=843" alt="Image 3" style="margin-right: 0;">   
-    
-    
     </div>
      <div>
     <img src="https://media.discordapp.net/attachments/1108290576497000500/1108340688984231956/BeccaQ_tourist_attraction_kwa_zulu_natal_749eaba9-8050-46e8-a882-b7afcfc9104b.png?width=843&height=843" alt="Image 1" style="margin-right: 0;">
         <img src="https://media.discordapp.net/attachments/1108290576497000500/1108340302617530498/BeccaQ_tourist_attraction_cape_town_e99ad769-ce9a-4c15-af38-5fd8e90a999f.png?width=843&height=843" style="margin-right: 0;">
-        <img src="https://media.discordapp.net/attachments/1108290576497000500/1108338648610512927/BeccaQ_gauteng_tourist_attraction_70ba131e-3e8e-4f5a-9072-70b445e560f8.png?width=843&height=843" alt="Image 3" style="margin-right: 0;">   
-    
-    
+        <img src="https://media.discordapp.net/attachments/1108290576497000500/1108338648610512927/BeccaQ_gauteng_tourist_attraction_70ba131e-3e8e-4f5a-9072-70b445e560f8.png?width=843&height=843" alt="Image 3" style="margin-right: 0;">  
     </div>
   
