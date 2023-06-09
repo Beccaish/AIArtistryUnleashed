@@ -13,3 +13,35 @@ Embark on an immersive journey through my AI art experiments, I dream deep while
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+South African born and raised tech girl, gamer and curious AI enthusiast.
+
+- :telescope: In my day job I am a MS Dynamics Web Developer and National Community Manager for a higher education institute. I create solutions using AI within my marketing team.
+
+- :seedling: Exploring tech trends. Engaging in community groups at Microsoft SA and Girls that Code. Creating art, innovative solutions and personal prjects with AI.
+
+- :zap: In my free time, I volunteer for Minecraft events for children in South Africa accross the country, and I participate in community projects for OSINT with Tracelabs, gamejams, innovation and SDG hackathons. I also mentor in hackathons like Teens in AI, gamejams and have been a judge for Tracelabs.
+
+
+- ---
+
+### :hammer_and_wrench: Tools :
+
+<div>
+  
+    Chat GPT 3.0 & Di Vinci 3.5
+    Midjourney
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
