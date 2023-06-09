@@ -42,6 +42,11 @@ South African born and raised tech girl, gamer and curious AI enthusiast.
     Midjourney
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Portfolio Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<div style="display: inline-flex;">
+        <img src="https://media.discordapp.net/attachments/1108290576497000500/1115628232050483272/BeccaQ_digital_background__Pixar_Disney_concept_art_3d_digital__597bf333-defa-477d-9e84-24c4759a7a39.png" alt="Image 1" style="margin-right: 0;">
+        <img src="https://media.discordapp.net/attachments/1108290576497000500/1115628232050483272/BeccaQ_digital_background__Pixar_Disney_concept_art_3d_digital__597bf333-defa-477d-9e84-24c4759a7a39.png" alt="Image 2" style="margin-right: 0;">
+        <img src="https://media.discordapp.net/attachments/1108290576497000500/1115628232050483272/BeccaQ_digital_background__Pixar_Disney_concept_art_3d_digital__597bf333-defa-477d-9e84-24c4759a7a39.png" alt="Image 3" style="margin-right: 0;">
+    </div>
